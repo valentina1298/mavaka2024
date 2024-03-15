@@ -8,7 +8,7 @@ body{
     color: var(--texto);
 }
 img{
-    widht: 10%;
+    width: 10%;
 
 }
 
@@ -20,8 +20,8 @@ img{
 
 .img-intro{
     width: 20%;
+    
  }
-
  .intro{
     display: flex;
  }
