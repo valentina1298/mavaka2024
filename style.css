@@ -22,6 +22,8 @@ img{
     width: 20%;
  }
 
- .intro[
- display: flex;
- ]
+ .intro{
+    display: flex;
+ }
+
+ 
