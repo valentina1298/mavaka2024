@@ -17,3 +17,11 @@ img{
     display: flex;
     align-items: center;
  }
+
+.img-intro{
+    width: 20%;
+ }
+
+ .intro[
+ display: flex;
+ ]
