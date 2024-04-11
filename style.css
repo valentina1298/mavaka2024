@@ -32,6 +32,7 @@ img{
     display: grid;
     grid-template-columns: 40% 40% 40%;
     text-align: center;
+    padding: 20px 0;
  }
 
  .foto-equipe{
