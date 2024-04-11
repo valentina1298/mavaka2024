@@ -31,7 +31,7 @@ img{
  .equipe{
     display: grid;
     grid-template-columns: 40% 40% 40%;
-
+    text-align: center;
  }
 
  .foto-equipe{
