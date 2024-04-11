@@ -1,4 +1,4 @@
-:root{
+ :root{
     /* root é a caixinha de variáveis */
     --cor-de-fundo:#a9c5ec;
     --texto: #ffffff;
@@ -26,6 +26,12 @@ img{
     display: flex;
     border: 4px solid #e5f4f9;
     border-radius: 30px;
+ }
+
+ .equipe{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+
  }
 
  
