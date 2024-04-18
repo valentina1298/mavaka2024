@@ -28,7 +28,7 @@ img{
     border-radius: 30px;
  }
 
- .equipe{
+ #equipe{
     display: grid;
     grid-template-columns: 40% 40% 40%;
     text-align: center;
