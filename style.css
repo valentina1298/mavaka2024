@@ -2,6 +2,7 @@
     /* root é a caixinha de variáveis */
     --cor-de-fundo:#a9c5ec;
     --texto: #ffffff;
+    --cor-rodape: #ffcbdb;
 }
 body{
     background-color: var(--cor-de-fundo);
@@ -44,3 +45,6 @@ img{
    text-decoration: none;
  }
  
+ .footer{
+   background-color: var(--cor-rodape);
+ }
