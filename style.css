@@ -1,4 +1,7 @@
- :root{
+    @import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
+    
+    :root{
+
     /* root é a caixinha de variáveis */
     --cor-de-fundo:#a9c5ec;
     --texto: #ffffff;
