@@ -65,3 +65,12 @@ grid-template-columns: 30% 40% 30%;
 grid-template-columns: 20% 50% 30%;
 
  }
+
+ .primeirojogo{
+   width: 53%;
+   border: 12px solid blue;
+}
+.segundojogo{
+   width: 53%;
+   border: 12px solid blue;
+}
