@@ -54,8 +54,14 @@ img{
    background-color: pink;
  }
 
- .jogo{
-   display: flex;
+ .jogo1{
+   display:grid;
+grid-template-columns: 30% 40% 30%;
 
+ }
+
+ .jogo2{
+   display:grid;
+grid-template-columns: 20% 50% 30%;
 
  }
