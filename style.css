@@ -7,6 +7,9 @@
     --texto: #ffffff;
 }
 body{
+    font-family: "Sevillana", static;
+    font-optical-sizing: auto;
+    font-weight: 400;
     background-color: var(--cor-de-fundo);
     color: var(--texto);
 }
