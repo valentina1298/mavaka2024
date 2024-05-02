@@ -57,13 +57,13 @@ img{
  .jogo1{
    display:grid;
 grid-template-columns: 30% 40% 30%;
-
+justify-items: center;
  }
 
  .jogo2{
    display:grid;
 grid-template-columns: 20% 50% 30%;
-
+justify-items: center;
  }
 
  .primeirojogo{
