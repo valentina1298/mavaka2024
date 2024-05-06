@@ -34,6 +34,7 @@ img{
  .bot{
    display: flex;
    justify-content: space-between;
+
  }
  .intro{
     display: flex;
