@@ -20,15 +20,20 @@ img{
 
 
  header{
-    display: flex;
+    display: grid;
     align-items: center;
-    justify-content: space-between;
+    grid-template-columns: 70% 30%;
 
  }
 
 .img-intro{
     width: 20%;
     
+ }
+
+ .bot{
+   display: flex;
+   justify-content: space-between;
  }
  .intro{
     display: flex;
